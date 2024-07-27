@@ -7,10 +7,10 @@ Welcome to my GitHub profile! I'm passionate about cybersecurity, cloud security
 
 ## 🔧 Skills & Expertise
 
-- **Cybersecurity & Cloud Security**: Currently pursuing certifications to build my portfolio in these areas.
-- **Programming**: Continuously developing my coding skills.
-- **Legal & Business Acumen**: Bachelor's degree in Law and Business Administration with a minor in Informatics.
-- **Communication & Management**: Excellent written and verbal communication, coupled with strong time management skills.
+- **Cybersecurity & Cloud Security** : Currently pursuing certifications to build my portfolio in these areas.
+- **Programming** : Continuously developing my coding skills.
+- **Legal & Business Acumen** : Bachelor's degree in Law and Business Administration with a minor in Informatics.
+- **Communication & Management** : Excellent written and verbal communication, coupled with strong time management skills.
 
 ## 🎓 Education
 
