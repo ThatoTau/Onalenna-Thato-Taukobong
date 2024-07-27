@@ -1,5 +1,4 @@
 # Onalenna-Thato-Taukobong
-Certainly, here's a sample `README.md` file for your GitHub profile:
 
 ```markdown
 # 👋 Hello, I'm Onalenna Thato Taukobong
